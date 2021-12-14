@@ -18,6 +18,7 @@
 #### CLASE: GRUPO 16 - Profesora Isaura Natali Velásquez Mendoza
 
 
+  
 
 ### YASMIN ANDREA ZORRO GUTIERREZ 
 #### ROLES: `Analista / Desarrolladora`
